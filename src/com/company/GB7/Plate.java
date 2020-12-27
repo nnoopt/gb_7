@@ -21,4 +21,5 @@ public class Plate {
     public void setFood (int n){
         food +=n;
     }
+    
 }

@@ -19,4 +19,5 @@ public class Cat {
     public void info (){
             System.out.println("name: " + name + " appetite: " + appetite + " satiety: " + satiety);
     }
+    
 }
