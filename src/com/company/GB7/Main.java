@@ -17,5 +17,4 @@ public class Main {
         plate.setFood(100);
         plate.info();
     }
-    
 }
